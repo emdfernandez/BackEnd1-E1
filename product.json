@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "God of War",
+    "description": "Juego de PlayStation",
+    "code": "GOW01",
+    "price": 3000,
+    "status": true,
+    "stock": 20,
+    "category": "PS4",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "The Last of Us Part II",
+    "description": "Secuela del aclamado juego de supervivencia y drama emocional.",
+    "code": "TLU2-PS4",
+    "price": 22000,
+    "status": true,
+    "stock": 8,
+    "category": "PS4",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Ghost of Tsushima",
+    "description": "Un samurái debe defender su isla durante la invasión mongola.",
+    "code": "GTSH-PS4",
+    "price": 20000,
+    "status": true,
+    "stock": 10,
+    "category": "PS4",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man: Miles Morales",
+    "description": "Miles toma el manto de Spider-Man para proteger Nueva York.",
+    "code": "SMMM-PS5",
+    "price": 25000,
+    "status": true,
+    "stock": 15,
+    "category": "PS5",
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Elden Ring",
+    "description": "Un mundo abierto épico creado por FromSoftware y George R.R. Martin.",
+    "code": "ERING-PS5",
+    "price": 27000,
+    "status": true,
+    "stock": 20,
+    "category": "PS5",
+    "thumbnails": []
+  }
+]
